@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.4.6",
+    "dotenv": "^2.0.0",
     "moment": "^2.16.0",
     "twitter": "^1.4.0"
   }
